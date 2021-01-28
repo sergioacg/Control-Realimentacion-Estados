@@ -1,1 +1,9 @@
 *.zip
+/Realimentacion de Estados Servo Discreto
+*.png
+*.ipynb_checkpoints
+*.m
+*.slx
+*.slxc
+*.ipynb
+/slprj
